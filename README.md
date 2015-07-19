@@ -4,8 +4,8 @@ Calculating the frequency of the runloop if a timer is run under the ```NSDefaul
 
 #### iPhone 5s
 
-The resulting conlusion is approximately __4375 times / second__. This was apparent as we hit an asymptotic limit as the timer time interval approached 100ms range.
+The resulting conclusion is approximately __4375 times / second__. This was apparent as we hit an asymptotic limit as the timer time interval approached 100ms range.
 
 #### Simluator
 
-The resulting outcome is __12256 times / second__. This was apparent as we hit an asymptotic limit as the timer time interval approached 10ms range.
+The resulting conclusion is approximately __12256 times / second__. This was apparent as we hit an asymptotic limit as the timer time interval approached 10ms range.
